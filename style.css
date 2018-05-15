@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.uno{
+    width: 300px;
+    height: 250px;
+    background-color: #053C63;
+    padding-left: 30px;
+    padding-top: 1px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+     position: relative;
+    }
+        .log{
+            position: absolute;
+            width: 50px;
+            right: 10px;
+            top: 10px;
+            
+        }
+        .h1{
+            position: absolute;
+            font-size: 380%;
+            color: white;
+            line-height: 37pt;
+            top: -22px;
+        }
+.dos{
+    width: 300px;
+    height: 250px;
+    background-color: #a5dae3;
+    padding-left: 30px;
+    padding-top: 1px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    position: relative;
+    }
+        .h2{
+            position: absolute;
+            font-size: 290%;
+            color: white;
+            line-height: 27pt;
+        }
+        .margin2{
+            margin-right: 5%;
+            margin-top: 14%;
+        }
+        
+        .win2{
+            position: absolute;
+            width: 30%;
+            bottom: 35px;
+            left: 100px;
+        }
+        .int2{
+            position: absolute;
+            width: 30%;
+            bottom: 20px;
+            left:  15PX;
+        }
+.tres{
+width: 300px;
+height: 250px;
+background-color: #a5dae3;
+padding-left: 30px;
+padding-top: 1px;
+box-sizing: border-box;
+margin-bottom: 10px;
+position: relative;
+}
+        .h3{
+            position: absolute;
+            font-size: 290%;
+            color: white;
+            line-height: 27pt;
+        }
+        .int3{
+            position: absolute;
+            width: 30%;
+            bottom: 20px;
+            left:  15PX;
+        }
+        .sur3{
+            position: absolute;
+            width: 55%;
+            top: 150px;
+            left: 170px;
+        }
+.cuatro{
+    width: 300px;
+    height: 250px;
+    background-color: #a5dae3;
+    padding-left: 30px;
+    padding-top: 1px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    position: relative;
+    }
+ 
+        .win4{
+            position: absolute;
+            width: 30%;
+            bottom: 35px;
+            left:  34pX;
+}
+.cinco{
+    width: 300px;
+    height: 250px;
+    background-color: #fece2f;
+    padding-left: 30px;
+    padding-top: 1px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+        position: relative;
+    }
+        .log{
+            position: absolute;
+            width: 50px;
+            right: 10px;
+            top: 10px;
+            
+        }
+        .h1{
+            position: absolute;
+            font-size: 380%;
+            color: white;
+            line-height: 37pt;
+            top: -22px;
+        }
+.seis{
+    width: 300px;
+    height: 250px;
+    background-color: #053C63;
+    padding-left: 30px;
+    padding-top: 1px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    position: relative;
+}
+        .h6{
+            position: absolute;
+            font-size: 290%;
+            color: white;
+            line-height: 27pt;
+        }
+        .int6{
+            position: absolute;
+            width: 30%;
+            bottom: 20px;
+            left:  15PX;
+        }
+        .sur6{
+            position: absolute;
+            width: 55%;
+            top: 150px;
+            left: 170px;
+        }
+        .win6{
+            position: absolute;
+            width: 30%;
+            bottom: 35px;
+            left:  34pX;
+        }
+.siete{
+width: 300px;
+height: 50px;
+background-color: #053C63;
+padding-left: 30px;
+padding-top: 1px;
+box-sizing: border-box;
+margin-bottom: 10px;
+position: relative;
+}
+        .log{
+        position: absolute;
+        width: 50px;
+        right: 10px;
+        top: 10px;
+        }
+        .h1{
+        position: absolute;
+        font-size: 50%;
+        color: white;
+        line-height: 27pt;
+        top: -28px;
+        }
+.ocho{
+width: 300px;
+height: 250px;
+background-color: #a5dae3;
+padding-left: 30px;
+padding-top: 1px;
+box-sizing: border-box;
+margin-bottom: 10px;
+position: relative;
+}
+        .h2{
+        position: absolute;
+        font-size: 290%;
+        color: white;
+        line-height: 27pt;
+        }
+        .margin2{
+        margin-right: 5%;
+        margin-top: 14%;
+        }
+        .win2{
+        position: absolute;
+        width: 30%;
+        bottom: 35px;
+        left: 100px;
+        }
+        .int2{
+        position: absolute;
+        width: 30%;
+        bottom: 20px;
+        left:  15PX;
+        }
+.nueve{
+width: 300px;
+height: 250px;
+background-color: #fece2f;
+padding-left: 30px;
+padding-top: 1px;
+box-sizing: border-box;
+margin-bottom: 10px;
+position: relative;
+}
+        .log{
+        position: absolute;
+        width: 50px;
+        right: 10px;
+        top: 10px;
+        }
+        .h1{
+        position: absolute;
+        font-size: 380%;
+        color: white;
+        line-height: 37pt;
+        top: -22px;
+        }
+
